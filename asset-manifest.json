@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4eda2314.chunk.css",
+    "main.js": "./static/js/main.52d60ac8.chunk.js",
+    "main.js.map": "./static/js/main.52d60ac8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a598fc7f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a598fc7f.js.map",
+    "static/js/2.52a62e9a.chunk.js": "./static/js/2.52a62e9a.chunk.js",
+    "static/js/2.52a62e9a.chunk.js.map": "./static/js/2.52a62e9a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.fe8fdf460a9d13abac00a738c3a2525d.js": "./precache-manifest.fe8fdf460a9d13abac00a738c3a2525d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.4eda2314.chunk.css.map": "./static/css/main.4eda2314.chunk.css.map",
+    "static/js/2.52a62e9a.chunk.js.LICENSE.txt": "./static/js/2.52a62e9a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/address_image.svg": "./static/media/address_image.3b021f8f.svg",
+    "static/media/animated_pic.png": "./static/media/animated_pic.97a4718b.png",
+    "static/media/bitmap.png": "./static/media/bitmap.3a249467.png",
+    "static/media/developerActivity.svg": "./static/media/developerActivity.59389695.svg",
+    "static/media/education.svg": "./static/media/education.caed892b.svg",
+    "static/media/experience.svg": "./static/media/experience.85d6957f.svg",
+    "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/feelingProud.svg": "./static/media/feelingProud.a73310ea.svg",
+    "static/media/rgukt.png": "./static/media/rgukt.6e9c2602.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a598fc7f.js",
+    "static/js/2.52a62e9a.chunk.js",
+    "static/css/main.4eda2314.chunk.css",
+    "static/js/main.52d60ac8.chunk.js"
+  ]
+}
